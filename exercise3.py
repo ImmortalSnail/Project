@@ -10,3 +10,4 @@ while (x != 1):
     else:
         y += 1
 
+print(list)
